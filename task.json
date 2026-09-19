@@ -1,0 +1,8 @@
+{
+  "enabled": true,
+  "youtube_url": "https://youtu.be/gs8F-u00cqY?si=kO8u_ZuXbdHKwXmk",
+  "youtube_package": "com.google.android.youtube",
+  "required_seconds": 10,
+  "unlock_hours": 5,
+  "free_episodes": 5
+}
