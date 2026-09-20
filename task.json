@@ -1,8 +1,15 @@
 {
-  "enabled": true,
-  "youtube_url": "https://youtu.be/gs8F-u00cqY?si=kO8u_ZuXbdHKwXmk",
-  "youtube_package": "com.google.android.youtube",
+  "youtube_url": "https://www.youtube.com/",
   "required_seconds": 10,
-  "unlock_hours": 5,
-  "free_episodes": 5
+  "unlock_hours": 12,
+  "youtube": {
+    "url": "https://www.youtube.com/",
+    "package_name": "com.google.android.youtube",
+    "required_seconds": 10
+  },
+  "tongits_go": {
+    "download_url": "https://lnk.ink/ifr0C",
+    "package_name": "com.tongitsgo.play",
+    "login_required_seconds": 10
+  }
 }
