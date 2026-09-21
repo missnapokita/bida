@@ -1,15 +1,18 @@
 {
-  "youtube_url": "https://www.youtube.com/",
-  "required_seconds": 10,
-  "unlock_hours": 12,
-  "youtube": {
-    "url": "https://www.youtube.com/",
-    "package_name": "com.google.android.youtube",
-    "required_seconds": 10
-  },
+  "version": 2,
+  "unlock_valid_hours": 1,
   "tongits_go": {
-    "download_url": "https://lnk.ink/ifr0C",
     "package_name": "com.tongitsgo.play",
-    "login_required_seconds": 10
+    "referral_url": "https://lnk.ink/ifr0C",
+    "first_verification_seconds": 15,
+    "daily_login_seconds": 10,
+    "first_unlock_episodes": 15,
+    "daily_unlock_episodes": 5
+  },
+  "youtube": {
+    "package_name": "com.google.android.youtube",
+    "url": "https://youtu.be/gs8F-u00cqY?si=bala5TAeiVr9s2CL",
+    "required_seconds": 15,
+    "unlock_episodes": 10
   }
 }
