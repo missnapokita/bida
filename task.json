@@ -1,6 +1,9 @@
 {
-  "version": 2,
+  "version": 3,
   "unlock_valid_hours": 1,
+  "task_section": {
+    "enabled": true
+  },
   "tongits_go": {
     "package_name": "com.tongitsgo.play",
     "referral_url": "https://lnk.ink/ifr0C",
